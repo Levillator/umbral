@@ -4,7 +4,7 @@ date: miércoles, marzo 15º 2023, 11:00:21 pm
 lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
-![](images/Fondo%20Umbral.jpg)
+![](images/Fondo_Umbral.png)
 # **El Umbral**
 
 El Umbral es un místico portal arcano, una Puerta a todos los lugares. Desde él, es posible acceder a todos los rincones del Mundo y de todos los Universos.
