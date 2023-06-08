@@ -1,14 +1,13 @@
 ---
-title: "Archivo con Markdown"
+title: "Crear un archivo nuevo con Markdown"
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - Offrol
+  - Colaboracion
 date: miércoles, marzo 29º 2023, 11:44:14 am
 lastmod: miércoles, marzo 29º 2023, 11:44:28 am
 ---
 
-# 2. Archivo con Markdown
+# 2. Crear un archivo nuevo con Markdown
 
 Tú, que has decidido ir un paso más allá, quieres crear o editar un artículo para la Wiki usando Markdown. Quizá te preguntes qué es Markdown, pero te anticipo que lo has estado usando todo este tiempo sin darte cuenta. Para usar este método no es necesario instalar nada en tu equipo.
 
