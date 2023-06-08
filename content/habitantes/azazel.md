@@ -17,3 +17,5 @@ Desconfia de que la Guardiana use más semillas y el Umbral, y quiere combatir
 Reconoce las runas de la [[habitantes/enemigos/contempladora|Contempladora]]
 
 Su debilidad es compleja, están ligados a una idea. Protectores de una idea. Su debilidad es demostrar que su idea es correcta. Deja de luchar por aquello que definede.
+
+se fue se fue 
